@@ -1,5 +1,5 @@
 import random
-
+#unfinished and might not finish this project as it kinda got out of hand and is just if else statments that don't teach me much
 warrior_health = 100
 warrior_damage = 20
 warrior_speed = 10
